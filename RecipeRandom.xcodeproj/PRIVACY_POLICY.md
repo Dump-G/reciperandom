@@ -19,4 +19,4 @@ You can delete the app at any time to remove all locally stored data.
 
 ## Contact
 If you have questions about this policy, contact:
-[YOUR EMAIL]
+sainiaaryaman1998@gmail.com
